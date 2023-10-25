@@ -1,0 +1,11 @@
+//getting started
+//react comes with reactdom and react native libraries 
+//dom is basically for the websites etc native is for mobile app development
+
+//normal way to create react app but it gives lot of things extra which is bulky
+//npx create-react-app amrish
+//npm run start -- to view on browser
+//npm run build == it will creae folder named build it is only served to server
+//we will see creating app through vite recommended
+
+//always go to first package.json to study what are the details

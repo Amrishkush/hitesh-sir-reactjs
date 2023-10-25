@@ -1,0 +1,20 @@
+Why to learn REact?
+Ans - Hype , job , trend , build UI
+      Makes our work easy to manage
+      Reactjs' main use is to build complex frontend
+
+When to learn React?
+      - After mastering Javascript
+      - Most project don't need react in intial phase
+
+Why react was created?
+      - Ghost message
+      - Because after reading also messages it used to show message unread nos
+      - There was no sync between state and UI - DOM
+    
+ReactJs is basically a library.
+
+
+
+
+////Always read documentation of any tech like here of reactjs
