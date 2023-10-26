@@ -1,0 +1,2 @@
+// there is no rocket science in making our own library we will see how to make our react library
+// see custom react folder

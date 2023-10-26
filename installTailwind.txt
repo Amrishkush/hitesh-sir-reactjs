@@ -1,0 +1,38 @@
+// first thing to do is to visit in tailwind website
+
+//there is one normal way to install the things in html css etc
+
+//There is a section for the installations react app
+
+// two options 
+-- npx create react app
+-- in vite react app      //we know two ways of making vite project 
+
+
+//first create react project through vite we know see in vite-installation file
+// now run commands 
+           {npm install -D tailwindcss postcss autoprefixer}
+                    {npx tailwindcss init}
+//file will be created tailwind.config.js
+       in that change this part
+       content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+
+  //then in index.css  {add this lines} on top other things we can delete or not our choice
+           @tailwind base;
+           @tailwind components;
+           @tailwind utilities;
+
+// now its ready to use it
+
+//also paste this in the settings.json for the working of intellisense
+
+ "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "html": "HTML"
+    },
+   "editor.quickSuggestions": {
+       "strings": true
+    }

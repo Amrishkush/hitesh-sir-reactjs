@@ -1,6 +1,9 @@
 import React from 'react'
 
-function Card({username, btnText="visit me"}) {
+function Card({username, btnText="visit me"}) {      
+  //by default its called props but which is object we will receive inside so we have to use like every time props.abc to acces
+  //but using curly bracket we can use directly variables no need to use props.abc if we want just in object form only so dont use curly brackets
+  //btnText = "visit me"    default value nothing vlaue is used or assigned
     console.log(username);
   return (
     <div className="relative h-[400px] w-[300px] rounded-md ">

@@ -1,0 +1,21 @@
+// to create first run
+   --{npm create vite@latest}
+   -- Project Name : any
+   -- Select framework : react (select using by arrow)
+   -- Select Javascript
+     Project Created  then
+   -- {npm install} (it will install all the dependencies)
+   -- {npm run dev} to run on browser  //can see in package.json how starts
+
+   {to stop after running just (ctrl + c) it will stop}
+
+   //in basic create react-app some scripts dependencies are there in package.json which automaticaaly add script part in html
+   //in vite script pahele se hi add rehta h index.html wala tag
+
+   //its convention any we use create-react-app or vite we should funciton in component captilaised also keep the file name in capital name 
+   //generally we keep name .jsx if there is any html content is there in it otherwise .js both will work but it will be fine
+   
+
+   // it is called single page application is made by react js because if we see then only 
+   //(one html file we created like index.html and one div) every other things go there
+   //there is only one page in which we are removing or injecting things reason called single page applications 
