@@ -19,3 +19,5 @@
    // it is called single page application is made by react js because if we see then only 
    //(one html file we created like index.html and one div) every other things go there
    //there is only one page in which we are removing or injecting things reason called single page applications 
+
+   
